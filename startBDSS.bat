@@ -1,1 +1,1 @@
-edm run -e force-py36 -- force_bdss --evaluate D:\users\Progetti\GitHub\Force-Project\force-bdss-plugin-ES-example\workflow_20191217.json
+edm run -e force-py36 -- force_bdss --evaluate D:\users\Progetti\GitHub\20200624\resources\workflow_20200624.json
